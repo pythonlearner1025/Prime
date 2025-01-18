@@ -9,7 +9,7 @@ Design space:
 \text{len}(r) \in \{13, 14, 15\} \\
 \text{len}(b) \in \{12, 13\}
 \end{array}
-\right}
+\right\}
 ```
 
 # Instructions
