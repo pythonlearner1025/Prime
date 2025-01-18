@@ -3,7 +3,7 @@
 Design space:
 
 ```math
-\mathcal{D} = \left{ (p, r, b) \in \text{pegRNA} \times \text{RTT} \times \text{PBS} : 
+\mathcal{D} = \left\{ (p, r, b) \in \text{pegRNA} \times \text{RTT} \times \text{PBS} : 
 \begin{array}{l}
 \text{pegRNA\_rank}(p) \in \{1, 2\} \\
 \text{len}(r) \in \{13, 14, 15\} \\
