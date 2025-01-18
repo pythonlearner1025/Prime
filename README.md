@@ -18,4 +18,5 @@ Design space:
 2. Place the .txt file into the directory and name it design.txt
 3. Follow https://github.com/sshen8/peglit and install peglit & activate conda environemnt with peglit in it
 5. Run main.py
+6. Check /out for outputs. Fully linked file: ```<datetime>_pegRNAs_with_linkers.csv```
 
